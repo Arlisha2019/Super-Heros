@@ -1,0 +1,20 @@
+#movieTitle {
+  list-style-type: none;
+
+
+}
+
+#image {
+
+
+  height: 100px;
+  width: 100px;
+
+
+}
+
+li {
+  display: flex;
+  text-align: center;
+
+}
